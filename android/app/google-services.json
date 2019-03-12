@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "490059072059",
+    "firebase_url": "https://text-recognition-2c2bb.firebaseio.com",
+    "project_id": "text-recognition-2c2bb",
+    "storage_bucket": "text-recognition-2c2bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490059072059:android:5ff0dea833a7ae9c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490059072059-9jm6cdsn44gstc6dhm3mcft1rprjbqvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqxQ-qXNoBn5cqUN6dDqZ7ukzHptOAYgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490059072059:android:565ac21bbeab5fc6",
+        "android_client_info": {
+          "package_name": "com.example.text_recognitions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490059072059-9jm6cdsn44gstc6dhm3mcft1rprjbqvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqxQ-qXNoBn5cqUN6dDqZ7ukzHptOAYgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
